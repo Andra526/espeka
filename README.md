@@ -54,3 +54,5 @@ npm run dev
 
 - **Backend:** Node.js + Express + TypeScript + SQLite + JWT
 - **Frontend:** React 18 + TypeScript + Vite + Custom CSS
+
+Tes Git
